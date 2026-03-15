@@ -1,4 +1,4 @@
-## Hi there 👋
+## Привет, меня зовут Кирилл 👋
 
 <!--
 **gianni090/gianni090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
